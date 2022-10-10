@@ -8,7 +8,7 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Docker](https://docs.docker.com/engine/install/), [Compose] (https://docs.docker.com/compose/install/), [Node.js](https://nodejs.org/en/).
+[Docker](https://docs.docker.com/engine/install/), [Compose](https://docs.docker.com/compose/install/), [Node.js](https://nodejs.org/en/).
 Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Banco de dados no Docker
