@@ -1,0 +1,51 @@
+export const jobs = [
+  {
+    title: "Rust",
+    description: "Melhor ambiente de trabalho e crescimento de carreira",
+    companyName: "Bombom.INC",
+    cityName: "Cuiabá",
+    stateName: "MT",
+  },
+  {
+    title: "React",
+    description: "Boa remuneração",
+    companyName: "Bombom.INC",
+    cityName: "Cuiabá",
+    stateName: "MT",
+  },
+  {
+    title: "Node.JS",
+    description: "good job",
+    companyName: "bombom.INC",
+    cityName: "Cuiabá",
+    stateName: "MT",
+  },
+  {
+    title: "Rust",
+    description: "Oportunidade boa",
+    companyName: "TechTop",
+    cityName: "São Paulo",
+    stateName: "SP",
+  },
+  {
+    title: "Node.JS",
+    description: "Desenvolvedor Backend e devops",
+    companyName: ".comTech",
+    cityName: "Santa Catarina",
+    stateName: "SC",
+  },
+  {
+    title: "Cobol",
+    description: "Bom conhecimento",
+    companyName: ".comTech",
+    cityName: "Santa Catarina",
+    stateName: "SC",
+  },
+  {
+    title: "Python",
+    description: "Trablhar com segurança",
+    companyName: "LinuxFactory",
+    cityName: "Fortaleza",
+    stateName: "CE",
+  },
+];
